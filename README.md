@@ -1,5 +1,7 @@
 # React-Phone-E-Commerce-Project
 
+See app live on [https://react-phone-e-commerce.netlify.com/](https://react-phone-e-commerce.netlify.com/).
+
 [React-Phone-E-Commerce-Project](https://react-phone-e-commerce.netlify.com/) is a web ReactJS application hosted on [Netlify](https://www.netlify.com/) with the usage of [PayPal REST API](https://developer.paypal.com/docs/api/overview/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
